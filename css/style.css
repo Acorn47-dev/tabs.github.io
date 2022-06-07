@@ -140,11 +140,13 @@ body {
 	background-position: right bottom;
 }
 .content__text{
-	font-family: "Roboto", sans-serif;
-	font-weight: 500;
+	
+	font-family: Calibri;
+	font-weight: 700;
 	font-size: 14px;
 	line-height: 16px;
-	color: #e2a6c0;
+	
+	color: #A2A6C0;
 }
 .tabs{
 	position: relative;
